@@ -1,0 +1,55 @@
+
+xampp (phpStudy重新编译版) 2016
+
+此版本由phpStudy作者重新编译，精简掉五分之四，安装包只有35M；
+原xampp解压后1250M，去臃肿精简掉980M仅剩250M。
+对控制面板进行大幅优化更新, 放弃掉旧版本许多无用的鸡肋功能。
+增加 PHP5.3、PHP5.5和PHP7.0 一键切换。将程序汉化修改，增加部分功能。
+将apache升级到最新版2.4.18，php升级到5.6.16和7.0.1。
+mysql升级到5.7.10，tomcat升级到7.0.56。
+程序包35M，解压后，启动即可，易于安装和设置。
+
+### 注意：
+PHP5.3、php5.4需要安装32位的vc9运行库；
+php5.6需要安装32位的vc11运行库。
+php7.0需要安装32位的vc14运行库。
+新增PHP5.3、PHP5.6和PHP7.0一键切换；点 [PHP切换] 进行切换。
+
+### MySQL 默认密码 ###     User: root     Password:root
+
+安装使用:
+  1: 勾选 [Service] 那栏下的按钮, 实现安装服务.
+  2: 点击各功能的 start 按钮来启动进程.
+  3: 点击各功能的 admin 按钮来管理功能.
+  4: 启动 tomcat 需要先安装JDK.
+
+
+如何卸载：
+通过 点 [其他工具] > [卸载全部服务] 
+或点托盘菜单 > [卸载服务] 卸载相关服务后删除即可。
+
+ 
+作者的集成包：
+
+1: phpStudy
+PHP集成包 phpStudy 支持php5.2到7.0一键切换，24种组合自由切换。
+phpStudy全面支持Apache | Nginx | IIS 6/7/8 | Lighttpd；
+支持站点设置，数据库备份还原等功能强大。
+
+2: JspStudy
+JSP+PHP集成包 JspStudy 支持tomcat6和tomcat7一键切换;支持服务和非服务模式运行。
+JspStudy集成JDK+tomcat +Apache+PHP+MySQL，将复杂的JSP环境配置简单化。
+无需设置环境变量一键配好JSP+PHP环境。
+
+phpStudy+JspStudy 详情访问 http://www.phpstudy.net/a.php/207.html
+
+
+
+寻求帮助访问官网: http://www.xampps.com
+
+
+                                             scp1688@163.com
+                                            http://www.xampps.com
+                                            http://www.phpStudy.net
+
+
